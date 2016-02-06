@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CALories</string>
+    <string name="action_settings">Settings</string>
+    <string name="amount_hint">0</string>
+    <string name="calories">Calories Burned:</string>
+    <string name="otheracts">Equivalent Activities:</string>
+    <string-array name="activities">
+        <item>Pushups</item>
+        <item>Situps</item>
+        <item>Jumping Jacks</item>
+        <item>Jogging</item>
+    </string-array>
+</resources>
